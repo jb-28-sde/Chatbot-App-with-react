@@ -37,13 +37,11 @@ For detailed installation instructions, please refer to the [Installation Guide]
 
 We welcome contributions from the community! If you’d like to enhance the application or suggest features, please feel free to fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or feedback, please reach out at [Your Name](mailto:your.email@example.com).
+For inquiries or feedback, please reach out at [Jaibhim Bangrey](mailto:jaibhimb@gmail.com).
 
 ---
 
@@ -51,7 +49,6 @@ Explore the realm of interactive communication with our Chatbot Application, and
 ```
 
 ### Notes:
-- Make sure to replace placeholders like `Your Name`, and `your.email@example.com` with your personal information.
-- Feel free to customize the features and technology stack sections based on your specific implementation and additional functionality you might have added to your chatbot app.![Screenshot 2025-02-14 091905](https://github.com/user-attachments/assets/a6f32161-0b19-45b4-b8e8-0527ca1baa6e)
+[Screenshot 2025-02-14 091905](https://github.com/user-attachments/assets/a6f32161-0b19-45b4-b8e8-0527ca1baa6e)
 
 uploaded the screenshot for attracting user interface
