@@ -29,9 +29,7 @@ The Chatbot Application is a modern web-based interface built using React, JavaS
 - **HTML & CSS**: For structuring and styling the application, ensuring accessibility and aesthetic appeal.
 - **API Integration**: Connects with backend services or AI APIs to fetch responses based on user input.
 
-## Installation and Usage
 
-For detailed installation instructions, please refer to the [Installation Guide](INSTALL.md) (if applicable).
 
 ## Contribution
 
@@ -49,6 +47,6 @@ Explore the realm of interactive communication with our Chatbot Application, and
 ```
 
 ### Notes:
-[Screenshot 2025-02-14 091905](https://github.com/user-attachments/assets/a6f32161-0b19-45b4-b8e8-0527ca1baa6e)
-
 uploaded the screenshot for attracting user interface
+
+![Screenshot 2025-02-14 091905](https://github.com/user-attachments/assets/94ec5224-7312-49a3-aa21-05fd82e6ed18)
